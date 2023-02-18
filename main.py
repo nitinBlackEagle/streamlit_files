@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv('api_key.env')
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 def generate_response(prompt):
